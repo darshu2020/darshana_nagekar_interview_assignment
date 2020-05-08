@@ -30,7 +30,7 @@ deletePostAlert(context,int postId) {
                         ],
                       ),
                       Padding(
-                        padding: const EdgeInsets.only(left:16.0,bottom: 4,right: 4),
+                        padding: const EdgeInsets.only(left:16.0,bottom: 4,right: 16.0),
                         child: Text(
                             'Once deleted, this post will be deleted Permanently',style: AppTextStyle.montserratLigthGreyText),
                       ),

@@ -103,9 +103,9 @@ Widget _buildContainer(BuildContext context, String text) {
   return Container(
     width: MediaQuery.of(context).size.width,
     color: AppColors.lighterGreyColor,
-    height: 32,
+    height: 35,
     child: Padding(
-      padding: EdgeInsets.only(left: 12.0, top: 4),
+      padding:  EdgeInsets.all(8.0),
       child: Text(
         text,
         style: AppTextStyle.montserratRegularGreyText,

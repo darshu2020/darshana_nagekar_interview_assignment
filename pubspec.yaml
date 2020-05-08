@@ -43,14 +43,14 @@ fonts:
   - family: Montserrat
     fonts:
       - asset: fonts/montserrat/Montserrat-Light.ttf
-        weight: 100
+        
       - asset: fonts/montserrat/Montserrat-Regular.ttf
-        weight: 400
+        
       - asset: fonts/montserrat/Montserrat-Medium.ttf
-        weight: 500
+        
       - asset: fonts/montserrat/Montserrat-SemiBold.ttf
-        weight: 600
+        
       - asset: fonts/montserrat/Montserrat-Bold.ttf
-        weight: 700
+        
   
 
